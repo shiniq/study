@@ -1,1 +1,5 @@
- изменение в мейне
+<<<<<<< HEAD
+Изменения в ветке conflict-branch и main
+=======
+Изменения в ветке conflict-branch и main
+>>>>>>> conflict-branch
